@@ -1,0 +1,16 @@
+#main {
+	text-align: center;
+}
+form {
+	width: 400px;
+	margin: auto;
+}
+form input, form textarea{
+	display: block;
+	margin: 20px auto;
+	width: 100%;
+}
+form textarea {
+	width: 410px;
+	height: 150px;
+}
